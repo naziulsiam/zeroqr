@@ -30,14 +30,11 @@ Open in your browser
 
 open index.html
 
-text
 
 ### Deploy to Vercel (Free)
 
 npm i -g vercel
 vercel
-
-text
 
 ### Deploy to Netlify (Free)
 Drag and drop the repository folder to [netlify.com](https://netlify.com)
@@ -49,8 +46,6 @@ zeroqr/
 ├── README.md # Documentation
 ├── LICENSE # MIT License
 └── .gitignore # Git ignore file
-
-text
 
 ## 🎨 Tech Stack
 
